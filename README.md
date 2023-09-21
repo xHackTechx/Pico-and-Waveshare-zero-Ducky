@@ -1,6 +1,6 @@
 # Pico-Ducky
 Have your Pico Pi or Waveshare RP2040 Zero ducky up and running in two minutes.
-1- Go to the following link, in the search bar type the name of your device
+1- Go to the following link, in the search bar type the name of your device https://circuitpython.org/downloads
 2- click on your device
 3- click the download .UF2 Now button
 4- Drag and drop the file from your downloads to the root
